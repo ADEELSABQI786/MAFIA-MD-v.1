@@ -72,7 +72,7 @@
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/itzawanzada/AWAN-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/ADEELSABQI786/MAFIA-MD-v.1)
 
 ----------
 
