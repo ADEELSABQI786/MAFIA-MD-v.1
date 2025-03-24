@@ -59,7 +59,7 @@
 ----------
 
 <p align="center">
-<a href=https://awanmd-web-pair-bcbb0a78e710.herokuapp.com/><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<a href=https://pair-bfou.onrender.com/pair/><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 
@@ -75,6 +75,17 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/ADEELSABQI786/MAFIA-MD-v.1)
 
 ----------
+
+
+<h4 align="center">4. Netlify</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+----------
+ 
+<p align="center">
+<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=netlify&logoColor=white'/< width=250 height=45/p></a> </a>
+
+---
 
 ### <br>   ❖ DEPLOY_KOYEB ❖
 
