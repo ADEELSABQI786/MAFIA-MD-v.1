@@ -44,7 +44,7 @@
 -------------
 
 <p align="center">
-   <a href="https://youtu.be/zBNbbkTFyG4?si=_a-skfMMehMd5zMT"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://youtu.be/elIwqmL1o0g?si=ggzjcWlhL88cVWNT"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -165,23 +165,8 @@ jobs:
     </a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=MAFIA-MD;+THE+WORLD+BEST+WHATSAPP+BOT;+CREATED+BY+MAFIA+ADEEL;KEEP+USING+MAFIA-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=MAFIA+ADEEL;KEEP+USING+MAFIA-MD" alt="Typing SVG" /></a>
   </p>
-
--------------
-
-<a><img src='https://qu.ax/XWtbY.jpg'/></a>
-
-------------
-
-`👻⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡`
-
----------
-
-
-
-<a><img src='https://qu.ax/lgTzZ.jpg'/></a>
-
 
 -----------
 
