@@ -1,77 +1,11 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=MAFIA-MD;+THE+WORLD+BEST+WHATSAPP+BOT;+CREATED+BY+MAFIA+ADEEL;KEEP+USING+MAFIA-MD" alt="Typing SVG" /></a>
+  </p>
 
-### <br>  ❖ MAFIA-MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY MAFIA-ADEEL👑`** 🔰
+-------------
 
----------------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif](https://qu.ax/XWtbY.jpg'/></a>
-
--------
-
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`WELLCOME+TO+AWAN++MD+WHATSAPP+BOT`" alt="">
+<a><img src='https://qu.ax/XWtbY.jpg'/></a>
 
 ------------
-
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20AWAN%20ZADA%20KING%20OF%20KINGS%20OWNER%20AWAN%20ZADA👑&image=https://qu.ax/OAbEA.jpg?v=4&backgroundColor=%23ecf0f1&github=AWANZADA&pattern=leaf&colorPattern=%23eaeaea"/>
-
-<br>
-
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-
-<br>
-
---------
-
-<p align="center">
-<a href="https://github.com/itzawanzada/"><img title="Followers" src="https://img.shields.io/github/followers/itzawanzada?color=blue&style=flat-square"></a>
-<a href="https://github.com/itzawanzada/AWAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itzawanzada/AWAN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itzawanzada/AWAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itzawanzada/AWAN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itzawan/AWAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/itzawanzada/AWAN-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/itzawanzada/AWAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-
------------
-----------
-
-<div align="center"><br> <img src="https://profile-counter.glitch.me/AWAN-MD/count.svg" /><br>AWAN-MD-V2</div>
-
-------------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
---------------
-
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-
-----------------
-
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FAWAN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
-
-
-![forks](https://img.shields.io/github/forks/itzawanzada/AWAN-MD?label=Forks&style=social)
-
-
-![stars](https://img.shields.io/github/stars/itzawanzada/AWAN-MD?style=social)
-
-
-[![FORK AWAN-MD](https://img.shields.io/badge/FORK%20-AWAN%20MD-white)](https://github.com/itzawanzada/AWAN-MD/fork)
-
-`🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹`
-
----------------
-
-</a>
-</p>
-
------------------
-
-🥂 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🥂 **[Baileys](https://github.com/WhiskeySockets/Baileys)**
-
 ------------------
 
 `👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻`
