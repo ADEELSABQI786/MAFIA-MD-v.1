@@ -1,29 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=AWAN-MD" alt="Typing SVG" /></a>
-  </p>
 
-<div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
-    <a href="" style="text-decoration: none;">
-        <img 
-            alt="AWAN" 
-            width="700" 
-            height="400" 
-            src="https://qu.ax/OAbEA.jpg" 
-            style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
-            onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
-            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
-        >
-    </a>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 𝙈𝙐𝘿𝘼𝙎𝙎𝘼𝙍 𝘼𝙒𝘼𝙉 𝙕𝘼𝘿𝘼 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
-
-
---------------
-
-### <br>  ❖ AWAN-MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY AWANZADA👑`** 🔰
+### <br>  ❖ MAFIA-MD ❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY MAFIA-ADEEL👑`** 🔰
 
 ---------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif](https://qu.ax/XWtbY.jpg'/></a>
 
 -------
 
